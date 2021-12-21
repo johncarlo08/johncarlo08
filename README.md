@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johncarlo08
 - 👀 I’m interested in Mobile and Website Development
-- 🌱 I’m currently learning Java, C#, .NET, Android Stidio and Xamarin
+- 🌱 I’m currently learning Java, C#, .NET, Android StUdio and Xamarin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
